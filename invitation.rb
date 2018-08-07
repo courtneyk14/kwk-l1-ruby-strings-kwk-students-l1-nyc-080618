@@ -9,3 +9,5 @@ puts party_name
 puts date
 puts host_name
 end
+
+invitation
