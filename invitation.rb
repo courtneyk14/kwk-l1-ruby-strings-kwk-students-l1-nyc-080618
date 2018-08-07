@@ -1,3 +1,3 @@
-# Code your prompts here!
+def
 
 # Try starting out with puts'ing a string.
